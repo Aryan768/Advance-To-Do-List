@@ -1,4 +1,4 @@
-//jshint esversion:6
+//For Copper Digital
 
 const express = require("express");
 const bodyParser = require("body-parser");
